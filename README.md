@@ -223,7 +223,7 @@ controller.ipn = (req, res) => {
 }
 ```
 
-La ruta de la IPN (`nombre-dominio/ipn`) debe ir configurada en el Backoffice Vendedor, en `Configuración -> Reglas de notificación -> URL de notificación al final del pago`
+La ruta o enlace de la IPN (`ruta-servidor/ipn`) debe ir configurada en el Backoffice Vendedor, en `Configuración -> Reglas de notificación -> URL de notificación al final del pago`
 
 <p align="center">
   <img src="https://i.postimg.cc/zfx5JbQP/ipn.png" alt="Formulario" width=80%/>
