@@ -42,7 +42,7 @@ Este manual está diseñado para ayudarte a comprender el flujo de la integraci�
 
 ### Clonar el proyecto
 ```sh
-git clone https://github.com/izipay-pe/Embedded-PaymentForm-Php.git
+git clone https://github.com/izipay-pe/Embedded-PaymentForm-Nodejs.git
 ``` 
 
 ### Datos de conexión 
